@@ -46,7 +46,7 @@ jobs:
         run: npx quartz plugin install --from-config
         working-directory: site
       - name: Build Quartz
-        run: npx quartz build
+        run: npx quartz build --directory ../生活
         working-directory: site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
