@@ -1,4 +1,9 @@
 # Obsidian
-.obsidian/
 .trash/
 .DS_Store
+
+# 只同步自建插件，其余本地配置（workspace/appearance 等）仍不跟踪
+.obsidian/*
+!.obsidian/plugins/
+.obsidian/plugins/*
+!.obsidian/plugins/copy-publish-url/

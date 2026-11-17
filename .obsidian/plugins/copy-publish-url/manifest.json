@@ -1,0 +1,9 @@
+{
+  "id": "copy-publish-url",
+  "name": "复制发布链接",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "复制当前笔记的 GitHub Pages（Quartz）发布链接到剪贴板",
+  "author": "psyduck",
+  "isDesktopOnly": false
+}
