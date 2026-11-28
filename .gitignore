@@ -7,3 +7,6 @@
 !.obsidian/plugins/
 .obsidian/plugins/*
 !.obsidian/plugins/copy-publish-url/
+
+# 读音音频（本地生成，不入库）
+英语/读音/
